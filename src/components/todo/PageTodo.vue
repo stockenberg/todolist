@@ -1,9 +1,7 @@
 <template>
 	<div>
 		<create-task></create-task>
-
 		<list></list>
-
 	</div>
 </template>
 
